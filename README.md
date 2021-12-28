@@ -1,6 +1,7 @@
 # techwriter4790
-Repo to showcase my tech writing skills
+
 ### Hi there, I'm Anand - aka [TechWriter 4790]👋 
+And this is a repo to showcase my technical writing skills
 
 ## I'm a Technical Writer, Budding Developer, and Financial Enthisiast!!
 
@@ -23,8 +24,8 @@ Repo to showcase my tech writing skills
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
@@ -37,7 +38,7 @@ Repo to showcase my tech writing skills
 
 ### 📺 Latest YouTube Videos
 
-[comment]: # (<!-- YOUTUBE:START -->
+[](<!-- YOUTUBE:START -->
 - [Visual Studio Code 2022 | Web Dev Setup | Top Extensions, Themes, Settings, Tips &amp; Tricks](https://www.youtube.com/watch?v=fJEbVCrEMSE)
 - [STACKr News Weekly: 2022 Web Dev Roadmap 🛣, Sabotaging your career? 🐱‍👤, It&#39;s ok to take a break 🏖](https://www.youtube.com/watch?v=zrEKyscb15A)
 - [NEW!! Web Developer Roadmap 2022 | Ultimate Guide To Starting A Career In Web Development](https://www.youtube.com/watch?v=7uJGjbkp0-U)
@@ -51,7 +52,7 @@ Repo to showcase my tech writing skills
 
 ### 📕 Latest Blog Posts
 
-[comment]: # (<!-- BLOG-POST-LIST:START -->
+[](<!-- BLOG-POST-LIST:START -->
 - [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
 - [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
 - [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
@@ -63,7 +64,7 @@ Repo to showcase my tech writing skills
 
 ---
 
-[comment]: # (<details>
+[](<details>
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
