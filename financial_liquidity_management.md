@@ -36,3 +36,20 @@ The core purpose of LM for a financial institution is being able to:
 - Adhering to regulations across various geographic locations
 - Following multiple business models in different organizations
 - Monitoring, tracking and controlling liquidity
+
+# Role of Banks in Liquidity Management:
+
+Banks play an important role in corporate liquidity management by providing:  
+
+- account management services
+- advisory services
+- product for maximum cash utilization
+- product for on demand borrowing to meet cash demand at minimum cost  
+
+Banks enable corporate to:  
+
+- streamline the multiple banking connections
+- offer holistic bird’s eye view of liquidity
+- minimize the overdraft
+
+
