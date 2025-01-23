@@ -1,9 +1,9 @@
 # techwriter4790
 
-### Hi there, I'm Anand - aka [TechWriter 4790]👋 
+### Hi there, I'm Anand👋 
 And this is a repo to showcase my technical writing skills
 
-## I'm a Technical Writer, Budding Developer, and Financial Enthisiast!!
+## I'm a Technical Writer, Budding Developer, and Financial Enthusiast!!
 
 - 🔭 I love to write customer-centric documents
 - 🌱 I’m currently learning everything 🤣
